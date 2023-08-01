@@ -1,8 +1,10 @@
 import Card from "react-bootstrap/Card";
+// use of props here 
 
 function CardJS(props) {
   return (
     <>
+    {/*individual card && design*/}
       <Card>
         <Card.Img
           variant="top"

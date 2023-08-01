@@ -3,6 +3,8 @@ import ImageTwo from './imgs/drunkElephant2.jpg'
 import ImageThree from './imgs/drunkElephant3.png'
 import ImageFour from './imgs/drunkElephant4.jpg'
 
+
+// array of objects, JSON DATA FILE
 export default [
   {
     name: "cleanser",
