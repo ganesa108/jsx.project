@@ -15,7 +15,7 @@ function CardJS(props) {
           <Card.Title>{props.name}</Card.Title>
           <Card.Text>
             <div>{props.description}</div>
-            <div>{props.price}</div>
+            <div>{props.price}$</div>
           </Card.Text>
         </Card.Body>
       </Card>
